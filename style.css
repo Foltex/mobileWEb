@@ -425,7 +425,7 @@ background-size: 100%;
 
 @media screen and (max-width 480px) {
     .main__img--card {
-        width: 250px;
+        width: 100vw;
         height: 250px;
     }
 
